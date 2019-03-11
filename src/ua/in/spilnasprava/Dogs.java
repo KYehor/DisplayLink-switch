@@ -6,6 +6,7 @@ public class Dogs extends Animals {
     @Override
 
     public void name(){
+        /*XXX*/
         try {
             System.out.println("How u call your dog?");
             Scanner sdog = new Scanner(System.in);

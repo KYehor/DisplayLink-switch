@@ -6,6 +6,7 @@ public class Cats extends Animals implements Mew {
     @Override
 
     public void name(){
+        /*XXX*/
         try {
             System.out.println("How u call your cat?");
             Scanner scat = new Scanner(System.in);
