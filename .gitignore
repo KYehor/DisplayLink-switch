@@ -1,8 +1,2 @@
 *.iml
-*.exe.stackdump
-*.ext
-*.stackdump
 .idea
-.exe.stackdump
-.ext
-.stackdump
