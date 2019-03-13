@@ -18,6 +18,7 @@ public class Main {
         Animals a = new Animals(); // Animals reference but Dogs object
         a.habits();                // runs the method in Animals class
         a.voice();                 // runs the method in Animals class
+        a.name();
         Animals b = new Dogs();    // Animals reference but Dogs object
         b.name();                  // runs the method 1in Dogs class
         b.voice();                 // runs the method in Dogs class
