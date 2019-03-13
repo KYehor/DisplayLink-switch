@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75d3ba5b-e917-4847-8c87-e7b82125f9ca" name="Default Changelist" comment="Commit2">
+    <list default="true" id="75d3ba5b-e917-4847-8c87-e7b82125f9ca" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/in/spilnasprava/Animals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ua/in/spilnasprava/Animals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/in/spilnasprava/Cats.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ua/in/spilnasprava/Cats.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/in/spilnasprava/Dogs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ua/in/spilnasprava/Dogs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/in/spilnasprava/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ua/in/spilnasprava/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,11 +16,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ua/in/spilnasprava/Animals.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-17">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state>
+              <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#77#78#0" expanded="true" />
                 <element signature="e#142#143#0" expanded="true" />
                 <element signature="e#168#169#0" expanded="true" />
                 <element signature="e#211#212#0" expanded="true" />
@@ -157,7 +152,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552474033551" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552474035029" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -202,7 +197,7 @@
       <workItem from="1552123348247" duration="8138000" />
       <workItem from="1552291255712" duration="6228000" />
       <workItem from="1552300971461" duration="1105000" />
-      <workItem from="1552466601899" duration="7422000" />
+      <workItem from="1552466601899" duration="7448000" />
     </task>
     <task id="LOCAL-00001" summary="Commit1">
       <created>1552301263858</created>
@@ -232,15 +227,21 @@
       <option name="project" value="LOCAL" />
       <updated>1552301943585</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Commit2">
+      <created>1552474042275</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1552474042276</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22893000" />
+    <option name="totallyTimeSpent" value="22919000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1386" height="788" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26093516" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -363,11 +364,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ua/in/spilnasprava/Animals.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-17">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state>
+          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#77#78#0" expanded="true" />
             <element signature="e#142#143#0" expanded="true" />
             <element signature="e#168#169#0" expanded="true" />
             <element signature="e#211#212#0" expanded="true" />
