@@ -1,20 +1,15 @@
 package ua.in.spilnasprava;
-import java.util.Scanner;
 import java.lang.String;
 
 public class Cats extends Animals implements Mew {
 
-    @Override
+    String question = ("How u will call your cat? ");
+    String answer = ("The name of your cat is: ");
 
     public void name() {
-        Scanner scan = new Scanner(System.in);
-        System.out.println("How u will call your cat?");
-        while (!scan.hasNext("[A-Za-z]+")) {
-            System.out.println("Please use only letters.");
-            scan.next();
-        }
-        String animal = scan.next();
-        System.out.println("The name of your cat is:" + animal);
+        super.question = this.question;
+        super.answer = this.answer;
+        super.name();
     }
 
     public void habits(){

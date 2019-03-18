@@ -4,6 +4,9 @@ import java.lang.String;
 
 public class Animals {
 
+    String question = ("How u will call your animal? ");
+    String answer = ("The name of your animal is: ");
+
     public void habits(){
         System.out.println("Animals can move and breath");
     }
@@ -13,13 +16,14 @@ public class Animals {
     }
 
     public void name(){
+        System.out.println(question);
         Scanner scan = new Scanner(System.in);
-        System.out.println("How u call your animal?");
         while (!scan.hasNext("[a-zA-Z]+")) {
             System.out.println("Please use only letters.");
-            scan.next();
+            scan.nextLine();
         }
-            String animal = scan.next();
-            System.out.println("The name of your animal is:" + animal);
+            String animal = scan.nextLine();
+            System.out.println(answer + animal);
     }
+
 }
